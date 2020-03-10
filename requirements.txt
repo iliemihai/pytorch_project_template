@@ -8,11 +8,13 @@ tqdm
 easydict
 spacy
 imageio
+wget
+pandas
 #pytorch
 torch==1.4.0
 torchtext
 torchvision
-tensorboardX
+tensorboard   X
 #huggingface
 transformers
 tokenizers
