@@ -10,6 +10,7 @@ spacy
 imageio
 wget
 pandas
+jupyterlab
 #pytorch
 torch==1.4.0
 torchtext

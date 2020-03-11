@@ -19,8 +19,6 @@ from tensorboardX import SummaryWriter
 from utils.metrics import AverageMeter, AverageMeterList
 from utils.misc import print_cuda_statistics
 
-cudnn.benchmark = True
-
 
 class SentimentAgent(BaseAgent):
 
@@ -31,7 +29,7 @@ class SentimentAgent(BaseAgent):
         self.data_loader = SentimentDataLoader(config=config)
 
         # define models
-        self.model = RNN(input_dim=len(self.data_loader.TEXT.vocab),
+        self.model = RNN(input_dim=self.data_loader.training_set.vocab_size,
                          embedding_dim=self.config.embedding_dim,
                          hidden_dim=self.config.hidden_dim,
                          output_dim=self.config.output_dim)
@@ -98,17 +96,25 @@ class SentimentAgent(BaseAgent):
     def train_one_epoch(self):
         self.model.train()
         #here it need to to an iterator over vocabulary
-        for batch_idx, (data, target) in enumerate(self.data_loader.train_iterator):
+        for batch_idx, (data, target) in enumerate(self.data_loader.train_loader):
+            #print("TENSOR DATA 1", data.shape)
+            data = torch.stack(data)
+            print("TENSOR DATA 2", data.shape)
+            target = target[0]
             data, target = data.to(self.device), target.to(self.device)
             self.optimizer.zero_grad()
             output = self.model(data)
-            loss = self.loss_fn(output, target)
+
+            target = target[0]
+            output = output.float()
+            target = target.float()
+            loss = F.mse_loss(output, target)
             loss.backward()
             self.optimizer.step()
             if batch_idx % self.config.log_interval == 0:
                 self.logger.info('Train Epoch: {} [{}/{} ({:.0f}%)]\tLoss: {:.6f}'.format(
-                    self.current_epoch, batch_idx * len(data), len(self.data_loader.train_iterator.dataset),
-                        100. * batch_idx / len(self.data_loader.train_iterator), loss.item()))
+                    self.current_epoch, batch_idx * len(data),self.data_loader.training_set.vocab_size ,
+                        100. * batch_idx / len(self.data_loader.train_loader), loss.item()))
             self.current_iteration += 1
 
     def validate(self):
@@ -116,17 +122,22 @@ class SentimentAgent(BaseAgent):
         test_loss = 0
         correct = 0
         with torch.no_grad():
-            for data, target in self.data_loader.test_iterator:
+            for data, target in self.data_loader.test_loader:
+                data = torch.stack(data).T
+                target = target[0]
                 data, target = data.to(self.device), target.to(self.device)
                 output = self.model(data)
-                test_loss += self.loss_fn(output, target).item() # sum up batch loss
+                output = output.float()
+                target = target.float()
+                loss = F.mse_loss(output, target)
+                test_loss += F.mse_loss(output, target).item() # sum up batch loss
                 pred = output.max(1, keepdim=True)[1]
                 correct += pred.eq(target.view_as(pred)).sum().item()
 
-        test_loss /= len(self.data_loader.test_iterator.dataset)
+        test_loss /= len(self.data_loader.test_loader.dataset)
         self.logger.info('\nTest set: Average loss: {:.4f}, Accuracy: {}/{} ({:.0f}%)\n'.format(
-            test_loss, correct, len(self.data_loader.test_iterator.dataset),
-            100. * correct / len(self.data_loader.test_iterator.dataset)))
+            test_loss, correct, len(self.data_loader.test_loader.dataset),
+            100. * correct / len(self.data_loader.test_loader.dataset)))
 
     def finalize(self):
         pass

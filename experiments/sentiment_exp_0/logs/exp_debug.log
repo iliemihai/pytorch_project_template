@@ -1,3 +1,1441 @@
 [INFO] - 2020-03-11 01:10:07,480 - root - : Hi, This is root. in /home/mihai/Documents/pytorch/pytorch_project_template/utils/config.py:92
 [INFO] - 2020-03-11 01:10:07,480 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch/pytorch_project_template/utils/config.py:93
 [INFO] - 2020-03-11 01:10:07,480 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch/pytorch_project_template/utils/config.py:94
+[INFO] - 2020-03-11 00:50:16,004 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 00:50:16,004 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 00:50:16,004 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 00:52:26,830 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 00:52:26,830 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 00:52:26,830 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:01:41,640 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:01:41,641 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:01:41,641 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:03:30,928 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:03:30,928 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:03:30,928 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:04:49,413 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:04:49,413 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:04:49,413 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:08:37,650 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:08:37,650 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:08:37,650 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:10:59,221 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:10:59,221 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:10:59,221 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:17:31,657 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:17:31,657 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:17:31,657 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:17:33,285 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 01:18:25,396 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:18:25,397 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:18:25,397 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:18:32,660 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 01:25:42,663 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:25:42,664 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:25:42,664 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:25:44,280 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 01:26:06,976 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:26:06,976 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:26:06,976 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:26:15,360 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 01:32:24,124 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:32:24,125 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:32:24,125 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:32:59,402 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:32:59,402 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:32:59,402 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:33:23,292 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:33:23,293 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:33:23,293 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:33:24,931 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 01:33:33,187 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:33:33,188 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:33:33,188 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:33:37,123 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 01:43:18,365 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:43:18,366 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:43:18,366 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:43:19,978 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 01:46:20,378 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:46:20,378 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:46:20,378 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:46:21,956 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 01:54:48,638 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:54:48,638 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:54:48,639 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:55:16,643 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:55:16,643 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:55:16,644 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:56:00,700 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 01:56:00,700 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 01:56:00,701 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 01:56:02,289 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:19:00,298 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:19:00,298 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:19:00,298 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:19:01,978 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:37:04,665 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:37:04,665 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:37:04,665 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:38:10,763 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:38:10,763 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:38:10,763 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:39:19,445 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:39:19,446 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:39:19,446 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:40:03,401 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:40:03,401 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:40:03,401 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:41:01,487 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:41:01,487 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:41:01,487 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:41:03,180 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:42:01,993 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:42:01,994 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:42:01,994 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:42:03,558 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:45:20,477 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:45:20,478 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:45:20,478 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:45:22,118 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:46:22,129 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:46:22,129 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:46:22,129 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:46:23,816 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:47:40,842 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:47:40,842 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:47:40,842 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:47:42,489 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:48:33,184 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:48:33,184 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:48:33,184 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:48:34,774 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:48:43,962 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:48:43,962 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:48:43,962 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:48:45,535 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:49:10,573 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:49:10,574 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:49:10,574 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:49:12,163 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:49:42,574 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:49:42,574 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:49:42,574 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:49:44,142 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:50:03,517 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:50:03,517 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:50:03,517 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:50:05,089 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:51:39,775 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:51:39,775 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:51:39,775 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:51:41,567 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:52:08,914 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:52:08,914 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:52:08,914 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:52:10,797 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:52:20,821 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:52:20,821 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:52:20,821 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:52:22,647 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:53:32,369 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:53:32,369 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:53:32,369 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:53:35,012 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:55:02,170 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:55:02,170 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:55:02,171 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:55:04,605 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:55:25,450 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:55:25,451 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:55:25,451 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:55:27,781 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:56:30,364 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:56:30,364 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:56:30,364 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:56:32,773 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:56:56,014 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:56:56,015 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:56:56,015 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:56:58,377 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 02:59:03,721 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 02:59:03,721 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 02:59:03,721 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 02:59:06,145 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:00:23,795 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:00:23,795 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:00:23,795 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:00:26,210 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:73
+[INFO] - 2020-03-11 03:00:53,324 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:90
+[INFO] - 2020-03-11 03:00:58,271 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:00:58,272 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:00:58,272 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:01:00,717 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:02:25,436 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:02:25,436 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:02:25,436 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:02:27,897 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:03:01,187 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:03:01,187 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:03:01,188 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:03:03,601 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:04:24,395 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:04:24,395 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:04:24,395 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:04:26,759 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:08:28,518 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:08:28,518 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:08:28,518 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:08:35,728 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:10:31,887 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:10:31,887 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:10:31,887 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:10:34,216 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:13:08,916 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:13:08,916 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:13:08,916 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:13:11,409 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:13:54,012 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:13:54,013 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:13:54,013 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:13:56,398 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:14:54,588 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:14:54,588 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:14:54,588 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:14:56,947 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:15:22,925 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:15:22,928 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:15:22,928 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:15:27,101 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:16:28,936 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:16:28,936 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:16:28,936 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:16:32,563 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:19:35,988 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:19:35,988 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:19:35,988 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:19:39,825 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:19:50,683 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:19:50,683 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:19:50,684 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:19:53,350 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:20:55,339 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:20:55,339 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:20:55,340 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:20:58,898 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:24:23,417 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:24:23,418 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:24:23,418 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:24:25,638 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:25:38,704 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:25:38,704 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:25:38,704 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:25:41,949 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:25:59,975 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:25:59,975 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:25:59,975 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:26:03,115 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:26:26,006 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:26:26,006 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:26:26,006 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:26:29,132 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:28:09,652 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:28:09,652 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:28:09,652 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:28:11,658 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:29:45,572 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:29:45,573 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:29:45,573 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:29:47,626 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:30:27,986 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:30:27,986 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:30:27,986 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:30:30,002 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:31:48,723 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:31:48,723 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:31:48,723 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:31:51,776 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:72
+[INFO] - 2020-03-11 03:35:37,329 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:35:37,331 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:35:37,331 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:37:44,672 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:37:44,674 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:37:44,674 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:38:14,202 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:38:14,202 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:38:14,202 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:38:16,196 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 03:44:06,397 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:44:06,402 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:44:06,402 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:44:08,589 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 03:48:22,315 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:48:22,315 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:48:22,315 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:48:24,386 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 03:48:34,998 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:48:34,999 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:48:34,999 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:48:36,946 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 03:48:47,543 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:48:47,543 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:48:47,544 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:48:49,435 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 03:49:10,596 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:49:10,596 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:49:10,596 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:49:12,494 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 03:49:40,198 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:49:40,199 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:49:40,199 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:49:42,158 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 03:49:56,068 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 03:49:56,068 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 03:49:56,069 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 03:49:58,013 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:03:40,565 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:03:40,565 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:03:40,565 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:03:42,882 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:04:27,247 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:04:27,247 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:04:27,247 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:04:29,270 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:08:31,612 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:08:31,614 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:08:31,614 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:08:33,805 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:09:11,287 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:09:11,288 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:09:11,288 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:09:14,498 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:11:52,704 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:11:52,709 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:11:52,710 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:11:54,925 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:12:25,258 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:12:25,258 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:12:25,258 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:15:01,111 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:15:01,111 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:15:01,111 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:16:15,007 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:25:31,326 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 04:25:33,340 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:25:33,346 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:25:33,346 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:25:35,817 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:26:54,243 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:26:54,243 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:26:54,243 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:26:56,290 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:29:01,308 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:29:01,308 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:29:01,308 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:29:03,312 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:29:25,471 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:29:25,471 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:29:25,471 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:29:27,486 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:41:28,557 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:41:28,558 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:41:28,558 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:41:30,542 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:44:05,539 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:44:05,539 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:44:05,540 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:44:07,600 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:45:52,272 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:45:52,272 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:45:52,272 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:45:54,369 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:46:14,965 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:46:14,965 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:46:14,965 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:46:17,861 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:47:02,040 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:47:02,040 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:47:02,040 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:47:04,043 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:47:29,541 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:47:29,541 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:47:29,541 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:47:31,492 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:49:14,863 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:49:14,863 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:49:14,863 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:49:16,923 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:49:23,926 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 04:49:49,527 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:49:49,527 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:49:49,527 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:49:51,543 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:51:05,996 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:51:05,996 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:51:05,996 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:51:08,031 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:52:09,005 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:52:09,005 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:52:09,005 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:52:10,994 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:52:17,588 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:52:17,588 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:52:17,588 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:52:27,710 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:52:27,711 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:52:27,711 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:52:45,658 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:52:45,658 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:52:45,658 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:52:48,737 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:52:54,984 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 04:52:56,950 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:52:56,950 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:52:56,951 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:53:00,082 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:53:22,786 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:53:22,786 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:53:22,786 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:53:25,814 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:53:44,721 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:53:44,721 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:53:44,721 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:53:46,721 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 04:55:57,617 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 04:55:57,617 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 04:55:57,617 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 04:55:59,623 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:01:01,022 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:01:01,023 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:01:01,023 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:01:03,037 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:01:44,628 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:01:44,628 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:01:44,628 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:01:46,697 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:03:29,027 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:03:29,027 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:03:29,027 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:03:30,972 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:05:06,515 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:05:06,515 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:05:06,515 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:05:08,540 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:05:50,460 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:05:50,461 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:05:50,461 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:05:53,512 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:06:24,278 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:06:24,280 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:06:24,281 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:06:26,592 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:06:38,189 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:06:38,189 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:06:38,189 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:06:41,193 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:07:15,269 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:07:15,270 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:07:15,270 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:07:17,292 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:08:53,920 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:08:53,920 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:08:53,920 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:08:55,925 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:11:49,697 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:11:49,698 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:11:49,698 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:11:51,713 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:12:11,621 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:12:11,621 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:12:11,621 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:12:13,636 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:17:18,086 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:17:18,086 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:17:18,086 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:20:01,062 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:20:01,062 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:20:01,062 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:20:27,257 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:20:27,257 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:20:27,257 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:21:10,959 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:21:10,959 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:21:10,959 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:21:39,241 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:21:39,241 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:21:39,241 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:22:06,126 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:22:06,126 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:22:06,126 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:22:08,067 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:22:17,874 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 05:22:34,547 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:22:34,547 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:22:34,547 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:22:36,483 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:22:36,778 - Agent - : Train Epoch: 0 [0/800 (0%)]	Loss: 0.060240 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:113
+[INFO] - 2020-03-11 05:22:48,902 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:22:48,902 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:22:48,902 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:22:50,861 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:23:25,040 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:23:25,040 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:23:25,040 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:23:27,008 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:23:44,159 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:23:44,160 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:23:44,160 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:23:46,279 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:23:57,070 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:23:57,070 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:23:57,070 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:23:59,238 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:24:22,203 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:24:22,203 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:24:22,203 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:24:24,186 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:24:45,660 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:24:45,660 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:24:45,661 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:24:47,691 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:24:50,660 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 05:25:09,507 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:25:09,507 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:25:09,507 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:25:11,519 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:26:49,400 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:26:49,400 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:26:49,400 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:26:51,419 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:27:05,630 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:27:05,630 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:27:05,630 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:27:08,694 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:27:31,888 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:27:31,889 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:27:31,889 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:27:33,918 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:28:44,145 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:28:44,145 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:28:44,145 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:28:46,163 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:28:55,695 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:28:55,696 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:28:55,696 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:28:57,832 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:30:18,466 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:30:18,467 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:30:18,467 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:30:20,588 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:33:41,270 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:33:41,271 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:33:41,271 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:33:43,240 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:35:01,539 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:35:01,539 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:35:01,539 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:35:03,558 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:35:19,273 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:35:19,274 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:35:19,274 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:35:21,401 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:36:36,542 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:36:36,542 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:36:36,542 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:36:38,622 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:38:05,655 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:38:05,655 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:38:05,655 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:38:07,736 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:45:52,427 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:45:52,427 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:45:52,427 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:45:54,467 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:46:25,792 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:46:25,792 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:46:25,792 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:46:27,898 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:48:41,683 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:48:41,684 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:48:41,684 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:48:43,925 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:50:21,259 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:50:21,259 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:50:21,259 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:50:23,369 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:50:42,484 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:50:42,484 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:50:42,484 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:50:44,692 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:51:56,557 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:51:56,558 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:51:56,558 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:51:58,509 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:52:09,456 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:52:09,456 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:52:09,456 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:52:12,670 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:52:20,916 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:52:20,917 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:52:20,917 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:52:24,076 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:52:39,228 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:52:39,229 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:52:39,229 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:52:41,398 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:53:10,449 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:53:10,449 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:53:10,449 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:53:12,525 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:55:33,250 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:55:33,250 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:55:33,250 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:55:35,358 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:56:06,971 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:56:06,972 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:56:06,972 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:56:09,035 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 05:56:33,450 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 05:56:33,451 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 05:56:33,451 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 05:56:35,415 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:02:04,950 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:02:04,950 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:02:04,950 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:02:09,115 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:02:30,588 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:02:30,589 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:02:30,590 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:02:32,703 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:03:00,412 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:03:00,412 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:03:00,412 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:03:02,420 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:03:20,457 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:03:20,457 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:03:20,457 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:03:22,420 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:13:28,280 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:13:28,281 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:13:28,281 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:13:30,363 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:17:05,636 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:17:05,636 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:17:05,636 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:17:07,744 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:21:37,946 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:21:37,946 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:21:37,946 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:21:40,014 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:21:54,772 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 06:21:57,500 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:21:57,500 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:21:57,501 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:21:59,517 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:22:07,932 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 06:22:18,992 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:22:18,992 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:22:18,992 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:22:20,949 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:22:21,254 - Agent - : Train Epoch: 0 [0/800 (0%)]	Loss: 0.080762 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:115
+[INFO] - 2020-03-11 06:22:23,553 - Agent - : Train Epoch: 0 [4350/800 (1%)]	Loss: -18.711147 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:115
+[INFO] - 2020-03-11 06:22:25,986 - Agent - : Train Epoch: 0 [7420/800 (2%)]	Loss: -55.117599 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:115
+[INFO] - 2020-03-11 06:22:28,592 - Agent - : Train Epoch: 0 [9690/800 (4%)]	Loss: -107.649864 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:115
+[INFO] - 2020-03-11 06:22:30,946 - Agent - : Train Epoch: 0 [16920/800 (5%)]	Loss: -160.915588 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:115
+[INFO] - 2020-03-11 06:22:33,412 - Agent - : Train Epoch: 0 [35300/800 (6%)]	Loss: -212.265854 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:115
+[INFO] - 2020-03-11 06:22:36,124 - Agent - : Train Epoch: 0 [20040/800 (8%)]	Loss: -263.575226 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:115
+[INFO] - 2020-03-11 06:25:41,117 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:25:41,117 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:25:41,117 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:25:43,136 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:25:43,467 - Agent - : Train Epoch: 0 [0/800 (0%)]	Loss: -0.218554 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:115
+[INFO] - 2020-03-11 06:31:09,767 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:31:09,767 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:31:09,768 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:31:11,788 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:31:12,094 - Agent - : Train Epoch: 0 [0/800 (0%)]	Loss: -0.113401 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 06:31:34,740 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:31:34,741 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:31:34,741 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:31:36,771 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:31:37,079 - Agent - : Train Epoch: 0 [0/800 (0%)]	Loss: -0.326347 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 06:34:41,426 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:34:41,426 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:34:41,426 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:34:43,465 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:35:18,439 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:35:18,439 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:35:18,439 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:35:20,514 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:35:20,822 - Agent - : Train Epoch: 0 [0/800 (0%)]	Loss: 0.185133 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 06:37:01,446 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:37:01,447 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:37:01,447 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:37:03,551 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:37:03,864 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.098436 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 06:42:05,452 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:42:05,452 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:42:05,452 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:42:08,591 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:43:50,089 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:43:50,092 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:43:50,095 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:44:01,233 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:45:54,515 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:45:54,517 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:45:54,517 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:45:57,611 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:45:58,049 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: -0.289056 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 06:47:52,367 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:47:52,368 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:47:52,368 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:47:54,675 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:47:55,013 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: -0.147321 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 06:47:55,333 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 06:48:18,557 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:48:18,558 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:48:18,558 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:48:21,818 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:52:09,835 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:52:09,835 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:52:09,835 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:52:13,202 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:54:18,791 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:54:18,799 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:54:18,799 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:54:22,010 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:56:05,341 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:56:05,341 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:56:05,341 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:56:08,608 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:57:01,422 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:57:01,423 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:57:01,423 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:57:04,675 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:58:52,364 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:58:52,365 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:58:52,365 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:58:55,478 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:59:32,847 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:85
+[INFO] - 2020-03-11 06:59:35,203 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:59:35,203 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:59:35,203 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 06:59:37,520 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 06:59:57,510 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 06:59:57,511 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 06:59:57,511 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:00:00,770 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:05:08,959 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:85
+[INFO] - 2020-03-11 07:05:11,530 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:05:11,530 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:05:11,530 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:05:14,705 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:06:37,046 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:85
+[INFO] - 2020-03-11 07:06:39,713 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:06:39,714 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:06:39,714 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:06:42,909 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:07:15,481 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:85
+[INFO] - 2020-03-11 07:07:17,287 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:07:17,288 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:07:17,288 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:07:19,484 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:08:16,006 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:08:16,006 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:08:16,006 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:08:18,129 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:09:46,945 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:09:46,946 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:09:46,946 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:09:50,113 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:16:20,570 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:85
+[INFO] - 2020-03-11 07:16:22,108 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:16:22,108 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:16:22,108 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:16:24,227 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:16:47,179 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:16:47,179 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:16:47,179 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:16:50,320 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:20:47,709 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 07:20:50,329 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:20:50,329 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:20:50,329 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:20:53,513 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:23:45,513 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:23:45,514 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:23:45,514 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:23:48,587 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:29:40,646 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:85
+[INFO] - 2020-03-11 07:29:43,132 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:29:43,132 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:29:43,133 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:29:46,281 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:30:01,491 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:85
+[INFO] - 2020-03-11 07:30:02,912 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:30:02,917 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:30:02,917 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:30:05,211 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:31:14,569 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:31:14,569 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:31:14,569 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:31:16,600 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:33:58,540 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:33:58,540 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:33:58,540 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:34:00,588 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:34:52,916 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:34:52,917 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:34:52,917 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:34:55,049 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:37:30,396 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:37:30,396 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:37:30,396 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:37:32,515 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:37:58,537 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:37:58,541 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:37:58,541 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:38:00,616 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:39:58,247 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:39:58,247 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:39:58,248 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:40:00,294 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:40:22,841 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:40:22,841 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:40:22,841 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:40:24,966 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:42:30,006 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:42:30,006 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:42:30,007 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:42:32,130 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:42:42,402 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:42:42,402 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:42:42,402 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:42:44,457 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:44:54,126 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:44:54,126 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:44:54,126 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:44:56,159 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:45:47,943 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:45:47,944 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:45:47,944 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:45:50,021 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:45:50,448 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.799018 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:45:53,381 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.305526 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:45:56,187 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.261790 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:45:59,221 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.271632 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:46:02,468 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.207556 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:46:06,027 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.245918 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:46:09,801 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.281924 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:46:13,413 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.261621 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:46:17,013 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.164572 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:46:20,863 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.237724 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:120
+[INFO] - 2020-03-11 07:47:00,218 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:47:00,218 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:47:00,218 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:47:02,306 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:47:02,715 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.700622 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:05,821 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.286883 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:08,803 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.240360 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:13,069 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.208657 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:16,552 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.195964 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:20,237 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.216364 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:23,679 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.305753 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:27,175 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.222534 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:30,446 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.245466 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:33,715 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.254067 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:43,583 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 07:47:43,583 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 07:47:43,583 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 07:47:45,610 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 07:47:46,010 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 1.086209 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:48,960 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.305496 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:51,639 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.342054 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:54,581 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.249652 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:47:57,670 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.215100 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:48:00,908 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.290947 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:48:04,061 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.350021 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:48:07,257 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.277751 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:48:10,406 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.251108 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 07:48:13,626 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.252178 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:02:38,336 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:02:38,337 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:02:38,337 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:02:40,385 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:02:40,817 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.720372 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:02:43,889 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.315126 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:02:46,795 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.489513 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:02:49,890 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.277087 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:02:53,319 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.223872 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:02:56,899 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.218937 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:02:57,262 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 08:04:21,077 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:04:21,078 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:04:21,078 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:04:23,112 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:04:23,327 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.770785 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:04:24,625 - Agent - : Train Epoch: 0 [80/24850 (10%)]	Loss: 0.284253 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:04:25,817 - Agent - : Train Epoch: 0 [160/24850 (20%)]	Loss: 0.256520 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:04:27,053 - Agent - : Train Epoch: 0 [240/24850 (30%)]	Loss: 0.212427 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:04:28,550 - Agent - : Train Epoch: 0 [320/24850 (40%)]	Loss: 0.210581 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:04:30,009 - Agent - : Train Epoch: 0 [400/24850 (50%)]	Loss: 0.216832 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:04:31,358 - Agent - : Train Epoch: 0 [480/24850 (60%)]	Loss: 0.277335 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:04:32,792 - Agent - : Train Epoch: 0 [560/24850 (70%)]	Loss: 0.221285 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:04:32,951 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 08:05:08,547 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:05:08,550 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:05:08,551 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:05:10,698 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:05:10,908 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.851083 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:05:12,211 - Agent - : Train Epoch: 0 [80/24850 (10%)]	Loss: 0.284515 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:05:13,497 - Agent - : Train Epoch: 0 [160/24850 (20%)]	Loss: 0.271390 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:05:14,766 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 08:06:36,902 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:06:36,903 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:06:36,903 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:06:38,893 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:06:53,508 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:06:53,508 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:06:53,508 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:06:55,829 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:06:56,084 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.867870 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:06:57,443 - Agent - : Train Epoch: 0 [80/24850 (10%)]	Loss: 0.297776 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:06:59,188 - Agent - : Train Epoch: 0 [160/24850 (20%)]	Loss: 0.285637 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:00,994 - Agent - : Train Epoch: 0 [240/24850 (30%)]	Loss: 0.208272 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:01,828 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 08:07:03,961 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:07:03,961 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:07:03,961 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:07:06,066 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:07:06,278 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.829592 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:07,445 - Agent - : Train Epoch: 0 [80/24850 (10%)]	Loss: 0.298073 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:08,623 - Agent - : Train Epoch: 0 [160/24850 (20%)]	Loss: 0.268978 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:08,974 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 08:07:16,677 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:07:16,677 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:07:16,677 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:07:18,632 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:07:18,820 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.822423 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:19,935 - Agent - : Train Epoch: 0 [80/24850 (10%)]	Loss: 0.291456 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:21,008 - Agent - : Train Epoch: 0 [160/24850 (20%)]	Loss: 0.251802 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:22,072 - Agent - : Train Epoch: 0 [240/24850 (30%)]	Loss: 0.220996 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:23,354 - Agent - : Train Epoch: 0 [320/24850 (40%)]	Loss: 0.209233 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:24,539 - Agent - : Train Epoch: 0 [400/24850 (50%)]	Loss: 0.221009 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:25,644 - Agent - : Train Epoch: 0 [480/24850 (60%)]	Loss: 0.275764 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:26,761 - Agent - : Train Epoch: 0 [560/24850 (70%)]	Loss: 0.224872 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:27,902 - Agent - : Train Epoch: 0 [640/24850 (80%)]	Loss: 0.163434 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:29,005 - Agent - : Train Epoch: 0 [720/24850 (90%)]	Loss: 0.242540 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:07:29,148 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 08:09:07,677 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:09:07,677 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:09:07,677 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:09:09,680 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:09:24,268 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:09:24,268 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:09:24,268 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:09:26,265 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:09:26,450 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.841114 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:09:27,636 - Agent - : Train Epoch: 0 [80/24850 (10%)]	Loss: 0.294259 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:09:28,654 - Agent - : Train Epoch: 0 [160/24850 (20%)]	Loss: 0.269902 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:09:29,712 - Agent - : Train Epoch: 0 [240/24850 (30%)]	Loss: 0.202763 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:09:30,923 - Agent - : Train Epoch: 0 [320/24850 (40%)]	Loss: 0.211067 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:09:32,086 - Agent - : Train Epoch: 0 [400/24850 (50%)]	Loss: 0.214023 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:09:33,188 - Agent - : Train Epoch: 0 [480/24850 (60%)]	Loss: 0.274580 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:09:34,297 - Agent - : Train Epoch: 0 [560/24850 (70%)]	Loss: 0.225595 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:09:35,378 - Agent - : Train Epoch: 0 [640/24850 (80%)]	Loss: 0.162970 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:09:36,400 - Agent - : Train Epoch: 0 [720/24850 (90%)]	Loss: 0.239589 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:18,346 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:10:18,347 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:10:18,347 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:10:20,351 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:10:20,752 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.996228 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:23,729 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.301413 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:27,118 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 08:10:29,160 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:10:29,160 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:10:29,160 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:10:31,156 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:10:31,545 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.534626 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:34,276 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.327071 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:36,879 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.392219 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:39,674 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.348537 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:42,666 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.196723 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:45,754 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.263768 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:48,821 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.285761 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:51,873 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.239469 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:55,198 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.167978 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:10:59,270 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.252904 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:116
+[INFO] - 2020-03-11 08:15:07,142 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:15:07,145 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:15:07,145 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:17:45,492 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:17:45,492 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:17:45,492 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:17:47,471 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:25:49,750 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:25:49,750 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:25:49,751 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:25:51,749 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:28:54,868 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:28:54,868 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:28:54,868 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:28:56,853 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:28:57,250 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.046255 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:29:00,024 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.122257 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:29:02,731 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.291764 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:29:05,646 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.094413 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:29:08,774 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.982147 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:29:12,023 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.312865 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:29:15,199 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.526882 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:29:18,362 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.185546 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:29:21,516 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.268099 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:29:24,445 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.366739 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:00,154 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:33:00,155 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:33:00,155 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:33:02,116 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:33:02,516 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.023967 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:05,290 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.082913 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:07,990 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.498559 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:10,875 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.076904 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:13,948 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 1.009055 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:17,131 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.366102 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:20,231 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.486678 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:23,360 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.216370 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:26,460 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.235402 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:29,352 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.389972 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:50,108 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:33:50,108 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:33:50,108 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:33:52,116 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:33:52,511 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.014533 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:55,296 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.181797 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:33:57,938 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.307353 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:34:00,799 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.117973 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:34:03,833 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.946058 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:34:06,988 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.310104 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:34:10,094 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.499556 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:34:13,216 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.135203 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:34:16,296 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.257721 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:34:19,231 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.400640 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:15,210 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:38:15,210 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:38:15,210 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:38:17,217 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:38:17,619 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.067515 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:20,402 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.099622 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:23,082 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.356792 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:26,360 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.069325 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:29,676 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.886801 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:33,066 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.179906 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:36,305 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.378901 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:39,515 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.224971 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:43,250 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.379669 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:38:47,254 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.342356 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:40:33,155 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:40:33,160 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:40:33,160 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:40:35,191 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:40:35,623 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.043692 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:40:38,393 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.193365 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:40:41,078 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.330234 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:40:43,963 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.141402 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:40:47,071 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.878136 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:40:50,300 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.196478 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:40:53,450 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.410706 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:40:56,617 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.236950 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:40:59,741 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.263874 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:02,677 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.278318 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:06,773 - Agent - : 
+Test set: Average loss: 0.0336, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:141
+[INFO] - 2020-03-11 08:41:07,159 - Agent - : Train Epoch: 1 [0/24850 (0%)]	Loss: 0.385342 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:10,105 - Agent - : Train Epoch: 1 [3560/24850 (10%)]	Loss: 0.382433 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:13,396 - Agent - : Train Epoch: 1 [5060/24850 (20%)]	Loss: 0.199148 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:16,638 - Agent - : Train Epoch: 1 [10320/24850 (30%)]	Loss: 0.362498 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:19,689 - Agent - : Train Epoch: 1 [9560/24850 (40%)]	Loss: 0.443482 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:22,925 - Agent - : Train Epoch: 1 [17550/24850 (50%)]	Loss: 0.561207 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:25,686 - Agent - : Train Epoch: 1 [18900/24850 (60%)]	Loss: 0.232544 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:29,020 - Agent - : Train Epoch: 1 [19950/24850 (70%)]	Loss: 0.247686 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:32,614 - Agent - : Train Epoch: 1 [14400/24850 (80%)]	Loss: 0.233757 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:36,049 - Agent - : Train Epoch: 1 [26820/24850 (90%)]	Loss: 0.027315 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:41,457 - Agent - : 
+Test set: Average loss: 0.0454, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:141
+[INFO] - 2020-03-11 08:41:41,953 - Agent - : Train Epoch: 2 [0/24850 (0%)]	Loss: 0.355475 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:43,784 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 08:41:48,133 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:41:48,133 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:41:48,133 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:41:50,107 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:41:50,494 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.046944 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:53,224 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.059695 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:55,803 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.491517 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:41:58,593 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.073993 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:01,581 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 1.090190 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:04,669 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.276470 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:07,803 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.514558 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:10,876 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.194268 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:13,891 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.251307 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:16,756 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.394048 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:20,736 - Agent - : 
+Test set: Average loss: 0.0369, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:42:21,093 - Agent - : Train Epoch: 1 [0/24850 (0%)]	Loss: 0.440401 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:23,824 - Agent - : Train Epoch: 1 [3560/24850 (10%)]	Loss: 0.280647 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:26,837 - Agent - : Train Epoch: 1 [5060/24850 (20%)]	Loss: 0.173970 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:29,984 - Agent - : Train Epoch: 1 [10320/24850 (30%)]	Loss: 0.356276 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:32,920 - Agent - : Train Epoch: 1 [9560/24850 (40%)]	Loss: 0.512720 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:35,999 - Agent - : Train Epoch: 1 [17550/24850 (50%)]	Loss: 0.465612 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:38,740 - Agent - : Train Epoch: 1 [18900/24850 (60%)]	Loss: 0.207261 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:42,109 - Agent - : Train Epoch: 1 [19950/24850 (70%)]	Loss: 0.257160 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:45,281 - Agent - : Train Epoch: 1 [14400/24850 (80%)]	Loss: 0.243739 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:48,381 - Agent - : Train Epoch: 1 [26820/24850 (90%)]	Loss: 0.018976 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:52,313 - Agent - : 
+Test set: Average loss: 0.0491, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:42:52,737 - Agent - : Train Epoch: 2 [0/24850 (0%)]	Loss: 0.360192 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:56,122 - Agent - : Train Epoch: 2 [2770/24850 (10%)]	Loss: 0.175774 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:42:59,427 - Agent - : Train Epoch: 2 [5860/24850 (20%)]	Loss: 0.309321 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:02,513 - Agent - : Train Epoch: 2 [5880/24850 (30%)]	Loss: 0.310858 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:05,655 - Agent - : Train Epoch: 2 [5440/24850 (40%)]	Loss: 0.357724 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:08,773 - Agent - : Train Epoch: 2 [12700/24850 (50%)]	Loss: 0.168278 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:11,936 - Agent - : Train Epoch: 2 [14340/24850 (60%)]	Loss: 0.070959 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:14,694 - Agent - : Train Epoch: 2 [17150/24850 (70%)]	Loss: 0.381933 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:17,791 - Agent - : Train Epoch: 2 [21280/24850 (80%)]	Loss: 0.360716 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:20,633 - Agent - : Train Epoch: 2 [15210/24850 (90%)]	Loss: 0.357934 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:24,573 - Agent - : 
+Test set: Average loss: 0.0283, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:43:24,926 - Agent - : Train Epoch: 3 [0/24850 (0%)]	Loss: 0.336051 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:27,889 - Agent - : Train Epoch: 3 [2150/24850 (10%)]	Loss: 0.166702 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:30,477 - Agent - : Train Epoch: 3 [740/24850 (20%)]	Loss: 0.224552 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:33,551 - Agent - : Train Epoch: 3 [11400/24850 (30%)]	Loss: 0.037222 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:36,248 - Agent - : Train Epoch: 3 [4080/24850 (40%)]	Loss: 0.044962 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:39,190 - Agent - : Train Epoch: 3 [15100/24850 (50%)]	Loss: 0.808229 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:42,330 - Agent - : Train Epoch: 3 [19140/24850 (60%)]	Loss: 0.448669 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:45,423 - Agent - : Train Epoch: 3 [19670/24850 (70%)]	Loss: 0.609863 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:48,269 - Agent - : Train Epoch: 3 [23200/24850 (80%)]	Loss: 0.148821 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:51,465 - Agent - : Train Epoch: 3 [19440/24850 (90%)]	Loss: 0.659415 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:55,778 - Agent - : 
+Test set: Average loss: 0.0307, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:43:56,186 - Agent - : Train Epoch: 4 [0/24850 (0%)]	Loss: 0.251950 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:43:59,495 - Agent - : Train Epoch: 4 [2710/24850 (10%)]	Loss: 0.470857 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:01,846 - Agent - : Train Epoch: 4 [5000/24850 (20%)]	Loss: 0.204729 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:05,208 - Agent - : Train Epoch: 4 [10710/24850 (30%)]	Loss: 0.629512 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:08,538 - Agent - : Train Epoch: 4 [6840/24850 (40%)]	Loss: 0.063030 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:11,717 - Agent - : Train Epoch: 4 [13350/24850 (50%)]	Loss: 0.113513 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:14,825 - Agent - : Train Epoch: 4 [15840/24850 (60%)]	Loss: 0.108802 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:17,816 - Agent - : Train Epoch: 4 [21910/24850 (70%)]	Loss: 0.163835 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:20,626 - Agent - : Train Epoch: 4 [24160/24850 (80%)]	Loss: 0.170147 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:23,864 - Agent - : Train Epoch: 4 [36630/24850 (90%)]	Loss: 0.312413 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:28,131 - Agent - : 
+Test set: Average loss: 0.0482, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:44:28,548 - Agent - : Train Epoch: 5 [0/24850 (0%)]	Loss: 0.139711 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:31,713 - Agent - : Train Epoch: 5 [1980/24850 (10%)]	Loss: 0.270468 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:34,549 - Agent - : Train Epoch: 5 [4900/24850 (20%)]	Loss: 0.128995 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:37,815 - Agent - : Train Epoch: 5 [5520/24850 (30%)]	Loss: 0.216235 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:40,570 - Agent - : Train Epoch: 5 [4160/24850 (40%)]	Loss: 0.193399 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:44,020 - Agent - : Train Epoch: 5 [12150/24850 (50%)]	Loss: 0.144973 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:47,326 - Agent - : Train Epoch: 5 [14820/24850 (60%)]	Loss: 0.598503 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:50,297 - Agent - : Train Epoch: 5 [23660/24850 (70%)]	Loss: 0.178545 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:53,072 - Agent - : Train Epoch: 5 [17200/24850 (80%)]	Loss: 0.487684 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:44:56,552 - Agent - : Train Epoch: 5 [22500/24850 (90%)]	Loss: 0.174259 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:01,069 - Agent - : 
+Test set: Average loss: 0.0716, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:45:01,491 - Agent - : Train Epoch: 6 [0/24850 (0%)]	Loss: 0.051638 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:04,696 - Agent - : Train Epoch: 6 [2700/24850 (10%)]	Loss: 0.109794 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:07,744 - Agent - : Train Epoch: 6 [7600/24850 (20%)]	Loss: 0.044409 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:10,925 - Agent - : Train Epoch: 6 [9600/24850 (30%)]	Loss: 0.052541 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:13,581 - Agent - : Train Epoch: 6 [10680/24850 (40%)]	Loss: 0.121964 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:16,522 - Agent - : Train Epoch: 6 [9500/24850 (50%)]	Loss: 0.149329 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:19,177 - Agent - : Train Epoch: 6 [13980/24850 (60%)]	Loss: 0.372831 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:22,288 - Agent - : Train Epoch: 6 [17710/24850 (70%)]	Loss: 0.203015 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:25,292 - Agent - : Train Epoch: 6 [14800/24850 (80%)]	Loss: 0.214923 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:28,584 - Agent - : Train Epoch: 6 [23760/24850 (90%)]	Loss: 0.064639 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:32,674 - Agent - : 
+Test set: Average loss: 0.0728, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:45:33,085 - Agent - : Train Epoch: 7 [0/24850 (0%)]	Loss: 0.527861 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:36,156 - Agent - : Train Epoch: 7 [2030/24850 (10%)]	Loss: 0.126565 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:39,002 - Agent - : Train Epoch: 7 [5640/24850 (20%)]	Loss: 0.400215 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:41,581 - Agent - : Train Epoch: 7 [8550/24850 (30%)]	Loss: 0.210819 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:44,714 - Agent - : Train Epoch: 7 [12360/24850 (40%)]	Loss: 0.478989 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:47,826 - Agent - : Train Epoch: 7 [14700/24850 (50%)]	Loss: 0.564709 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:50,713 - Agent - : Train Epoch: 7 [19380/24850 (60%)]	Loss: 0.260229 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:53,855 - Agent - : Train Epoch: 7 [24220/24850 (70%)]	Loss: 0.077982 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:45:57,243 - Agent - : Train Epoch: 7 [22320/24850 (80%)]	Loss: 0.065651 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:00,481 - Agent - : Train Epoch: 7 [25920/24850 (90%)]	Loss: 0.149933 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:04,366 - Agent - : 
+Test set: Average loss: 0.0545, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:46:04,756 - Agent - : Train Epoch: 8 [0/24850 (0%)]	Loss: 0.166880 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:07,929 - Agent - : Train Epoch: 8 [1800/24850 (10%)]	Loss: 0.128779 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:10,889 - Agent - : Train Epoch: 8 [5380/24850 (20%)]	Loss: 0.087931 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:14,020 - Agent - : Train Epoch: 8 [7680/24850 (30%)]	Loss: 0.640146 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:16,649 - Agent - : Train Epoch: 8 [7600/24850 (40%)]	Loss: 0.124352 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:19,940 - Agent - : Train Epoch: 8 [14800/24850 (50%)]	Loss: 0.495806 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:22,871 - Agent - : Train Epoch: 8 [12960/24850 (60%)]	Loss: 0.168173 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:25,394 - Agent - : Train Epoch: 8 [13090/24850 (70%)]	Loss: 0.702003 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:28,378 - Agent - : Train Epoch: 8 [23760/24850 (80%)]	Loss: 0.042151 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:31,559 - Agent - : Train Epoch: 8 [23760/24850 (90%)]	Loss: 0.080681 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:35,707 - Agent - : 
+Test set: Average loss: 0.0481, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:46:36,064 - Agent - : Train Epoch: 9 [0/24850 (0%)]	Loss: 0.296987 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:39,292 - Agent - : Train Epoch: 9 [2600/24850 (10%)]	Loss: 0.065071 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:42,183 - Agent - : Train Epoch: 9 [3800/24850 (20%)]	Loss: 0.169729 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:45,783 - Agent - : Train Epoch: 9 [8250/24850 (30%)]	Loss: 0.112935 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:48,899 - Agent - : Train Epoch: 9 [11560/24850 (40%)]	Loss: 0.170535 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:52,173 - Agent - : Train Epoch: 9 [7900/24850 (50%)]	Loss: 0.152371 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:55,403 - Agent - : Train Epoch: 9 [20880/24850 (60%)]	Loss: 0.403900 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:46:58,164 - Agent - : Train Epoch: 9 [2590/24850 (70%)]	Loss: 0.393598 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:47:01,391 - Agent - : Train Epoch: 9 [17200/24850 (80%)]	Loss: 0.410184 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:47:04,581 - Agent - : Train Epoch: 9 [22770/24850 (90%)]	Loss: 0.262123 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:47:08,321 - Agent - : 
+Test set: Average loss: 0.0517, Accuracy: 100/100 (100%)
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:140
+[INFO] - 2020-03-11 08:49:09,488 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 08:49:09,488 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 08:49:09,488 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 08:49:11,487 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 08:49:11,688 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.029647 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:49:12,976 - Agent - : Train Epoch: 0 [80/24850 (10%)]	Loss: 0.094613 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:49:14,133 - Agent - : Train Epoch: 0 [160/24850 (20%)]	Loss: 0.251143 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:49:15,399 - Agent - : Train Epoch: 0 [240/24850 (30%)]	Loss: 0.054756 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:49:16,813 - Agent - : Train Epoch: 0 [320/24850 (40%)]	Loss: 0.966951 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:49:18,274 - Agent - : Train Epoch: 0 [400/24850 (50%)]	Loss: 0.203574 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:49:19,639 - Agent - : Train Epoch: 0 [480/24850 (60%)]	Loss: 0.411962 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:49:21,046 - Agent - : Train Epoch: 0 [560/24850 (70%)]	Loss: 0.236944 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:49:22,430 - Agent - : Train Epoch: 0 [640/24850 (80%)]	Loss: 0.247084 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 08:49:23,548 - Agent - : Train Epoch: 0 [720/24850 (90%)]	Loss: 0.246931 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:31:09,588 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 09:31:09,591 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 09:31:09,591 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 09:31:14,391 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 09:31:15,290 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.013699 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:31:18,156 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:87
+[INFO] - 2020-03-11 09:37:54,417 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 09:37:54,417 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 09:37:54,418 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 09:37:56,370 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 09:38:12,861 - root - : Hi, This is root. in /home/mihai/Documents/pytorch_template/utils/config.py:92
+[INFO] - 2020-03-11 09:38:12,861 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch_template/utils/config.py:93
+[INFO] - 2020-03-11 09:38:12,861 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch_template/utils/config.py:94
+[INFO] - 2020-03-11 09:38:14,793 - Agent - : Program will run on *****CPU*****
+ in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:70
+[INFO] - 2020-03-11 09:38:15,202 - Agent - : Train Epoch: 0 [0/24850 (0%)]	Loss: 0.027391 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:38:18,172 - Agent - : Train Epoch: 0 [2450/24850 (10%)]	Loss: 0.137907 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:38:20,833 - Agent - : Train Epoch: 0 [5540/24850 (20%)]	Loss: 0.301097 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:38:23,704 - Agent - : Train Epoch: 0 [7920/24850 (30%)]	Loss: 0.166134 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:38:26,791 - Agent - : Train Epoch: 0 [10720/24850 (40%)]	Loss: 0.647246 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:38:29,947 - Agent - : Train Epoch: 0 [8550/24850 (50%)]	Loss: 0.255607 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:38:33,096 - Agent - : Train Epoch: 0 [15240/24850 (60%)]	Loss: 0.344488 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:38:36,243 - Agent - : Train Epoch: 0 [14070/24850 (70%)]	Loss: 0.250451 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:38:39,332 - Agent - : Train Epoch: 0 [21120/24850 (80%)]	Loss: 0.325722 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117
+[INFO] - 2020-03-11 09:38:42,265 - Agent - : Train Epoch: 0 [13140/24850 (90%)]	Loss: 0.371611 in /home/mihai/Documents/pytorch_template/agents/sentiment_agent.py:117

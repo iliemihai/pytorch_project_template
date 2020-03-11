@@ -61,32 +61,36 @@ class SentimentDataLoader:
 
         if config.mode == "download":
             url = "https://keg.utcluj.ro/datasets/russu_vlad.zip"
-            path_to_zip_file= wget.download(url)
-            with zipfile.ZipFile(path_to_zip_file, 'r') as zip_ref:
-                zip_ref.extractall(os.path.abspath(os.getcwd()))
             path = os.path.abspath(os.getcwd()) + '/movies/'
+            if not os.path.isdir(path):
+                path_to_zip_file= wget.download(url)
+                with zipfile.ZipFile(path_to_zip_file, 'r') as zip_ref:
+                    zip_ref.extractall(os.path.abspath(os.getcwd()))
+
             df = create_dataset(path)
 
             train_data, valid_data, test_data = np.split(df.values, [int(.8 * len(df.values)), int(.9 * len(df.values))])
 
-            training_set = SentimentDataset(train_data)
-            train_loader = DataLoader(training_set, **params)
+            self.training_set = SentimentDataset(train_data,tokenize_ro)
+            self.train_loader = DataLoader(self.training_set, **params)
 
-            validation_set = SentimentDataset(valid_data)
-            validation_loader = DataLoader(validation_set, **params)
+            self.validation_set = SentimentDataset(valid_data, tokenize_ro)
+            self.validation_loader = DataLoader(self.validation_set, **params)
 
-            test_set = SentimentDataset(test_data)
-            test_loader = DataLoader(test_set, **params)
+            test_set = SentimentDataset(test_data, tokenize_ro)
+            self.test_loader = DataLoader(test_set, **params)
 
-            self.TEXT.build_vocab(training_set, max_size=self.config.max_vocab_size)
-            self.LABEL.build_vocab(training_set)
+            self.TEXT.build_vocab(self.training_set.list_IDs, max_size=self.config.max_vocab_size)
+            self.LABEL.build_vocab(self.training_set.list_IDs)
 
             self.VOCAB_SIZE = len(self.TEXT.vocab)
-
-            self.train_iterator, self.valid_iterator, self.test_iterator = data.BucketIterator.splits(
-                (train_loader, validation_loader, test_loader),
-                batch_size=self.config.batch_size,
-                device=device)
+            #data_fields = [('review', self.TEXT), ('sentiment', self.LABEL)]
+            #self.train_iterator, self.valid_iterator, self.test_iterator = data.BucketIterator.splits(
+            #    (train_loader, validation_loader, test_loader),
+            #    batch_size=self.config.batch_size,
+            #    device=device,
+            #    sort_key=lambda x: len(x.text),
+            #    shuffle=False)
 
 
         elif config.mode == "en_download":
