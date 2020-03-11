@@ -1,7 +1,7 @@
 {
   "exp_name": "sentiment_exp_0",
   "agent": "SentimentAgent",
-  "mode": "train",
+  "mode": "download",
   "embedding_dim": 100,
   "hidden_dim": 256,
   "output_dim": 1,

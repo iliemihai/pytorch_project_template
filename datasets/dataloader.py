@@ -60,12 +60,11 @@ class SentimentDataLoader:
         self.LABEL = data.LabelField(dtype=torch.float)
 
         if config.mode == "download":
-
             url = "https://keg.utcluj.ro/datasets/russu_vlad.zip"
             path_to_zip_file= wget.download(url)
             with zipfile.ZipFile(path_to_zip_file, 'r') as zip_ref:
                 zip_ref.extractall(os.path.abspath(os.getcwd()))
-            path = os.path.abspath(os.getcwd()) + 'movies/'
+            path = os.path.abspath(os.getcwd()) + '/movies/'
             df = create_dataset(path)
 
             train_data, valid_data, test_data = np.split(df.values, [int(.8 * len(df.values)), int(.9 * len(df.values))])

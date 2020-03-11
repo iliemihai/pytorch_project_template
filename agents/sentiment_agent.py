@@ -31,7 +31,7 @@ class SentimentAgent(BaseAgent):
         self.data_loader = SentimentDataLoader(config=config)
 
         # define models
-        self.model = RNN(input_dim=len(self.data_loader.VOCAB_SIZE),
+        self.model = RNN(input_dim=len(self.data_loader.TEXT.vocab),
                          embedding_dim=self.config.embedding_dim,
                          hidden_dim=self.config.hidden_dim,
                          output_dim=self.config.output_dim)
