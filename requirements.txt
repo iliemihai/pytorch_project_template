@@ -14,7 +14,7 @@ pandas
 torch==1.4.0
 torchtext
 torchvision
-tensorboard   X
+tensorboard
 #huggingface
 transformers
 tokenizers

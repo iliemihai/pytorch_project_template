@@ -27,20 +27,20 @@ class SentimentAgent(BaseAgent):
     def __init__(self, config):
         super().__init__(config)
 
+        # define data_loader
+        self.data_loader = SentimentDataLoader(config=config)
+
         # define models
-        self.model = RNN(input_dim=len(VOCAB),
+        self.model = RNN(input_dim=len(self.data_loader.VOCAB_SIZE),
                          embedding_dim=self.config.embedding_dim,
                          hidden_dim=self.config.hidden_dim,
                          output_dim=self.config.output_dim)
-
-        # define data_loader
-        self.data_loader = SentimentDataLoader(config=config)
 
         # define loss
         self.loss_fn = nn.NLLLoss()
 
         # define optimizer
-        self.optimizer = optim.Adam(self.model.parameters(), lr=self.config.learning_rate, momentum=self.config.momentum)
+        self.optimizer = optim.SGD(self.model.parameters(), lr=self.config.learning_rate, momentum=self.config.momentum)
 
         # initialize counter
         self.current_epoch = 0
@@ -58,7 +58,7 @@ class SentimentAgent(BaseAgent):
         # set the manual seed for torch
         self.manual_seed = self.config.seed
         if self.cuda:
-            torch.cuda.manual_seed(self.manual_seed)
+            #torch.cuda.manual_seed(self.manual_seed)
             self.device = torch.device("cuda")
             torch.cuda.set_device(self.config.gpu_device)
             self.model = self.model.to(self.device)

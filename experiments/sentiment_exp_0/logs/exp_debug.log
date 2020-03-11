@@ -1,0 +1,3 @@
+[INFO] - 2020-03-11 01:10:07,480 - root - : Hi, This is root. in /home/mihai/Documents/pytorch/pytorch_project_template/utils/config.py:92
+[INFO] - 2020-03-11 01:10:07,480 - root - : After the configurations are successfully processed and dirs are created. in /home/mihai/Documents/pytorch/pytorch_project_template/utils/config.py:93
+[INFO] - 2020-03-11 01:10:07,480 - root - : The pipeline of the project will begin now. in /home/mihai/Documents/pytorch/pytorch_project_template/utils/config.py:94

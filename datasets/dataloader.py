@@ -3,15 +3,29 @@ import torch
 import numpy as np
 import pandas as pd
 from torch.utils.data import DataLoader
-from dataset import SentimentDataset
+from datasets.sentiment_dataset import SentimentDataset
 from torchtext import data
 import zipfile
 import wget
 import codecs
+from tokenizers import (ByteLevelBPETokenizer,
+                            CharBPETokenizer,
+                            SentencePieceBPETokenizer,
+                            BertWordPieceTokenizer)
 
 use_cuda = torch.cuda.is_available()
 device = torch.device("cuda:0" if use_cuda else "cpu")
-torch.backends.cudnn.benchmark = True
+#torch.backends.cudnn.benchmark = True
+
+#tokenizer_en = BertWordPieceTokenizer("bert-base-uncased-vocab.txt", lowercase=True)
+
+tokenizer_ro = BertWordPieceTokenizer("./roberto-vocab.txt", lowercase=True)
+
+#def tokenize_en(text):
+#    return tokenizer_en.encode(text).tokens
+
+def tokenize_ro(text):
+    return tokenizer_ro.encode(text).tokens
 
 def create_dataset(path):
     df = pd.DataFrame(columns=['review', 'sentiment'])
@@ -42,6 +56,9 @@ class SentimentDataLoader:
                   "pin_memory": self.config.pin_memory
                   }
 
+        self.TEXT = data.Field(tokenize=tokenize_ro)
+        self.LABEL = data.LabelField(dtype=torch.float)
+
         if config.mode == "download":
 
             url = "https://keg.utcluj.ro/datasets/russu_vlad.zip"
@@ -62,13 +79,10 @@ class SentimentDataLoader:
             test_set = SentimentDataset(test_data)
             test_loader = DataLoader(test_set, **params)
 
-            TEXT = data.Field(tokenize='spacy')
-            LABEL = data.LabelField(dtype=torch.float)
+            self.TEXT.build_vocab(training_set, max_size=self.config.max_vocab_size)
+            self.LABEL.build_vocab(training_set)
 
-            MAX_VOCAB_SIZE = 25_000
-
-            TEXT.build_vocab(training_set, max_size=MAX_VOCAB_SIZE)
-            LABEL.build_vocab(training_set)
+            self.VOCAB_SIZE = len(self.TEXT.vocab)
 
             self.train_iterator, self.valid_iterator, self.test_iterator = data.BucketIterator.splits(
                 (train_loader, validation_loader, test_loader),
