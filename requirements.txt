@@ -9,7 +9,7 @@ easydict
 spacy
 imageio
 #pytorch
-torch==1.4.0
+torch==2.2.0
 torchtext
 torchvision
 tensorboardX
